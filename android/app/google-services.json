@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763993638299",
+    "project_id": "jodrive2-f6010",
+    "storage_bucket": "jodrive2-f6010.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763993638299:android:41509afcd9d0c78f1f4d3e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3i7f1o2xdhngRyC98f7_sMjlNh5950Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
